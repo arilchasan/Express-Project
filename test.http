@@ -1,0 +1,4 @@
+GET http://localhost:3000/api/users
+Accept:application/json
+Content-Type:application/json
+Authorization:14346974-3769-4de2-be2a-c062f9afce7b
